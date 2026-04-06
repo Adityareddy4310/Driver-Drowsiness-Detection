@@ -29,7 +29,7 @@ It detects closed eyes using **Eye Aspect Ratio (EAR)** and yawning using **Mout
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/driver-drowsiness-detection.git
+git clone https://github.com/Adityareddy4310/Driver-Drowsiness-Detection.git
 cd driver-drowsiness-detection
 ```
 
