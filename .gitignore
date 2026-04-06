@@ -39,4 +39,3 @@ wheels/
 *.onnx
 
 # Model training outputs
-runs/
